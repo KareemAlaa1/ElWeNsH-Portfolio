@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KareemAlaa1/ElWeNsH-Portfolio/static/css/main.71c01f9b.css",
+    "main.js": "/KareemAlaa1/ElWeNsH-Portfolio/static/js/main.00ffe255.js",
+    "static/js/453.466a600a.chunk.js": "/KareemAlaa1/ElWeNsH-Portfolio/static/js/453.466a600a.chunk.js",
+    "index.html": "/KareemAlaa1/ElWeNsH-Portfolio/index.html",
+    "main.71c01f9b.css.map": "/KareemAlaa1/ElWeNsH-Portfolio/static/css/main.71c01f9b.css.map",
+    "main.00ffe255.js.map": "/KareemAlaa1/ElWeNsH-Portfolio/static/js/main.00ffe255.js.map",
+    "453.466a600a.chunk.js.map": "/KareemAlaa1/ElWeNsH-Portfolio/static/js/453.466a600a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c01f9b.css",
+    "static/js/main.00ffe255.js"
+  ]
+}
